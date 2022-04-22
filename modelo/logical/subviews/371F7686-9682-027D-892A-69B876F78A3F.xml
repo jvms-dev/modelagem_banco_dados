@@ -18,5 +18,9 @@
 <hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
 <bounds x="70" y="60" width="170" height="110"/>
 </OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="6FF6D918-3CA7-7741-A3B7-5F98D6118AD7" otype="Entity" vid="E0C26C45-E32E-4BD7-3879-FFDB73B6E1E5">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="406" y="72" width="170" height="110"/>
+</OView>
 </objectViews>
 </Diagram>
